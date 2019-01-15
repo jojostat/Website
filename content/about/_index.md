@@ -1,18 +1,42 @@
 +++
-title = "About Hugo"
+title = "About JOSTAT"
 date = "2014-04-09"
 +++
 
 I am Munich Re‘s mathematical expert for the aviation facultative team, managing multiple pricing and data analytics projects. As a next step, I am looking for an exciting challenge in an innovative and fast growing environment.
 
-# Professional experience
+# Professional experience TEST
 ## Munich Re
-### Consultant Mathematics
-• Department's modelling expert and portfolio manager
-• Development of models for innovative products
-• Strong involvement in underwriting process
-• Project lead for establishing the data lake within aviation
-• Project lead for automation and update of internal reporting 
+#### Consultant Mathematics - Aviation
+ * Department's modelling expert and portfolio manager
+ * Communication of model results within business process
+ * Development of pricing models for innovative products
+ * Project lead for internal reporting on big data platform
+ * Responsibility for big data use case exploration
+
+#### Rotation – MSF Pritchard, London
+* Client Management in special aviation market
+
+#### Intern – Aviation & Risk Management
+ * Statistical analysis and alogrithm development
+ * Verification of internal credit rating model
+
+#### Intern – Reinsurance Latin America, Buenos Aires
+* Market Analysis and Currency modelling
+
+### PREVIOUS EXPERIENCE
+* Tutor Introduction to R Programming @ Technical University Munich
+* Intern Audit Financial Services @ KPMG
+
+### Education
+
+#### German Actuarial Academy (Deutsche Aktuars Vereinigung)
+*  Actuary (DAV), post-grad training in modelling & insurance
+
+#### Technical University Munich
+* M.Sc. Mathematical Finance and Actuarial Science, focus on statistics and mathematical programming
+* B.Sc. Mathematics, minor: Economics
+
 
 It makes use of a variety of open source projects including:
 
